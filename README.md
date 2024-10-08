@@ -1,6 +1,6 @@
 A simple To-Do List web application built using Flask. 
 This project helped me learn key aspects of web development, including handling routing, templates, forms, databases, and working with Git for version control. 
-It also allowed me to gain hands-on experience with both frontend and backend technologies, and gave me insight into building and deploying a full-stack web application.
+It also allowed me to gain hands-on experience with both frontend and backend languages, and gave me insight into building and deploying a full-stack web application.
 
 Features
 
